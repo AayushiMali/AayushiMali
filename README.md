@@ -1,7 +1,7 @@
 
 <div align='center'>  
   
-   ### Hello World!!, I am Kavita, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+   ### Hello World!!, I am Aayushi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <img align="center" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="400px">
   
   # About Me ::woman_office_worker:
@@ -81,6 +81,6 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AayushiMali/AayushiMali">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushiMali&hide=java,html&title_color=black&text_color=black&icon_color=black&bg_color=white,hide=jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushiMali&hide=java&hide=Jupyter Notebook,html&title_color=black&text_color=black&icon_color=black&bg_color=white" />
 </a>
 </div>
