@@ -81,6 +81,6 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AayushiMali/AayushiMali">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushiMali&hide=Jupyter Notebook,html&title_color=black&text_color=black&icon_color=black&bg_color=white" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushiMali&hide=Jupyter Notebook,html,Java&title_color=black&text_color=black&icon_color=black&bg_color=white" />
 </a>
 </div>
