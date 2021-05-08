@@ -29,6 +29,7 @@
   
   ## Programming Languages & FrameWorks
   ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/C#-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
   
   ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
