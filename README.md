@@ -5,7 +5,7 @@
   <img align="center" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="400px">
   
   # About Me ::woman_office_worker:
-  ##### Having an knowledge of different programming languages such as C,C++,Python,Java,Javascript etc. and using them into the Software Development provides me an opportunity to build something innovative which will impact many people's life. In addition to that goal, I have also acquired the knowledge of Machine Learning, Deep Learning and Artificial Intelligence and to apply that skills I have done many hands on which you can find in this GitHub profile. If this sounds interesting to you, we can surely connect to my <a href="https://www.linkedin.com/in/kavita-bhavsar-194198102/"> Linkedin </a> Profile ☺️. Also, Here is my <a href="https://kavita980.github.io/Portfolio_KavitaBhavsar/"> PortFolio website. </a>
+  ##### Having an knowledge of different programming languages such as C,C++,Python,Java,Javascript etc. and using them into the Software Development provides me an opportunity to build something innovative which will impact many people's life. In addition to that goal, I have also acquired the knowledge of Machine Learning, Deep Learning and Artificial Intelligence and to apply that skills I have done many hands on which you can find in this GitHub profile. If this sounds interesting to you, we can surely connect to my <a href="https://www.linkedin.com/in/aayushimali/"> Linkedin </a> Profile ☺️. Also, Here is my <a href="https://kavita980.github.io/Portfolio_KavitaBhavsar/"> PortFolio website. </a>
   
 # 🔧 Tools & Technologies
 <p>
